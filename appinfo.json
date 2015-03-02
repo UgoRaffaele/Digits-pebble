@@ -1,0 +1,32 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "raffopiemontese@gmail.com",
+    "longName": "Digits",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/bg.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            },
+            {
+                "characterRegex": "[0-9.:]",
+                "file": "fonts/InversionzUnboxed.ttf",
+                "name": "FONT_INVERSIONZ_50",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Digits",
+    "uuid": "3f9b87af-65f2-4c93-9335-e4064a6c2be9",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
